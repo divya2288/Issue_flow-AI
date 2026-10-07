@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/IssueFlow-AI/',
+  base: '/Issue_flow-AI/',
   plugins: [
     react(),
     tailwindcss(),
