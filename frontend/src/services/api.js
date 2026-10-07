@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:5000/api";
+const API_URL = "https://issueflow-ai-backend.onrender.com/api";
 
 async function request(url, options = {}) {
   const response = await fetch(url, options);
